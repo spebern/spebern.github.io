@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: spebern.github.io/sitemap.xml
+Sitemap: https://spebern.github.io/sitemap.xml
