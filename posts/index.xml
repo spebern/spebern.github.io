@@ -17,7 +17,7 @@
       <pubDate>Sun, 08 Jan 2023 15:38:52 +0100</pubDate>
       
       <guid>https://spebern.github.io/posts/helloworld/</guid>
-      <description></description>
+      <description> print(&amp;#34;Hello World&amp;#34;) </description>
     </item>
     
   </channel>
