@@ -20,14 +20,5 @@
 Calibration The samples from each axis usually have a different scale and offset from zero. One of the easiest ways for calibration to remove the offset and rescale the measurements. This requires knowing the minimum and maximum reading on each axis. Usually one collects samples while rotating the magnetometer in all directions, e.</description>
     </item>
     
-    <item>
-      <title>Hello World</title>
-      <link>https://spebern.github.io/posts/helloworld/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spebern.github.io/posts/helloworld/</guid>
-      <description>import matplotlib.pyplot as plt import numpy as np xpoints = np.array([1, 8]) ypoints = np.array([3, 10]) plt.plot(xpoints, ypoints) plt.show() </description>
-    </item>
-    
   </channel>
 </rss>
